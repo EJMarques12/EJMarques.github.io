@@ -1,0 +1,6 @@
+div#conteudo{
+    text-align: center;
+    border-style:ridge;
+    background-color: aqua;
+    margin: 100px;
+}
